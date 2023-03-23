@@ -1,4 +1,5 @@
-![Un banner donde se muestra el logo de los Indie Creators](https://user-images.githubusercontent.com/10075532/221389801-00bc8f73-297b-4e95-b162-00a7209508b7.png)
+![image_22](https://user-images.githubusercontent.com/10075532/227379966-f688681c-ea72-44e3-afb9-357b4c05178d.png)
+
 
 <div align="center">
   <a href="https://github.com/Indie-Creator-Community/indie-creators-community/wiki/1-%C2%B7-Bienvenid@-%F0%9F%91%8B" target="_blank">Comienzo rápido</a>
