@@ -66,7 +66,13 @@ Si no te quieres perder nada de lo que estamos construyendo, aquí te dejo donde
 - 🏠 **[Discord](https://discord.gg/Qncuxgcgsn):** Aquí te podrás enterar de todo… como dije antes este es “Nuestro Centro de Operaciones”, toda la magia ocurre aquí.
 
 
----
+-----
+
+<!-- readme: contributors -start -->
+
+<!-- readme: contributors -end -->
+
+-----
 
 
 Creado con ❤️ por [Serudda](https://www.twitter.com/serudda)
