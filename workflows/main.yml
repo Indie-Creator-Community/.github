@@ -1,0 +1,15 @@
+# This YAML code defines a workflow that runs when the main branch is pushed to
+on:
+    push:
+        branches:
+            - main # The name of the branch to trigger the workflow
+
+jobs:
+    contrib-readme-job: # The name of the job
+        runs-on: ubuntu-latest # The type of machine to run the job on
+        name: A job to automate contrib in readme # A human-readable name for the job
+        steps: # The list of steps to perform in the job
+            - name: Contribute List # The name of the first step
+              uses: akhilmhdh/contributors-readme-action@v2.3.6 # The action to use in this step
+              env: # The environment variables to pass to the action
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # The GitHub token to authenticate with
