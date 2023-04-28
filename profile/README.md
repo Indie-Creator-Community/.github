@@ -4,13 +4,13 @@
 <div align="center">
   <a href="https://github.com/Indie-Creator-Community/indie-creators-community/wiki/1-%C2%B7-Bienvenid@-%F0%9F%91%8B" target="_blank">Comienzo rápido</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://discord.gg/Qncuxgcgsn" target="_blank">Discord</a>
+  <a href="https://discord.gg/77guznJ8mZ" target="_blank">Discord</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/Indie-Creator-Community/indie-creators-community/wiki/1-%C2%B7-Bienvenid@-%F0%9F%91%8B" target="_blank">Wiki</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://discord.gg/Qncuxgcgsn" target="_blank">Website (Pronto)</a>
+  <a href="https://discord.gg/77guznJ8mZ" target="_blank">Website (Pronto)</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://discord.gg/Qncuxgcgsn" target="_blank">Unirse!</a>
+  <a href="https://discord.gg/77guznJ8mZ" target="_blank">Unirse!</a>
   <br />
   <hr />
 </div>
@@ -26,7 +26,7 @@ Es una comunidad que crece día tras día, y la iniciativa empezó por [Serudda]
 
 No hay ningún requisito, simplemente tener un amor (o por lo menos la curiosidad) por crear 🛠️. Así que no importa tu nivel de experiencia dentro de la industria tech (junior, mid, senior, cto, etc.) o tú role o cargo actual (dev, designer, product manager, tester, etc.)… tod@s son bienvenid@s, así sea para colaborar en los Side Projects que construyamos con la comunidad, o simplemente aprender del proceso de creación de un proyecto personal, para que tú empieces a crear los tuyos propios 🥳.
 
-Lo único que tienes que hacer es unirte a nuestro [Discord](https://discord.gg/Qncuxgcgsn), el cual llamamos **“Nuestro Centro de Operaciones”**… todo ocurre ahí dentro: ideación, planificación, dudas, preguntas, respuestas, lanzamientos, etc.
+Lo único que tienes que hacer es unirte a nuestro [Discord](https://discord.gg/77guznJ8mZ), el cual llamamos **“Nuestro Centro de Operaciones”**… todo ocurre ahí dentro: ideación, planificación, dudas, preguntas, respuestas, lanzamientos, etc.
 
 -----
 
@@ -63,7 +63,7 @@ Si no te quieres perder nada de lo que estamos construyendo, aquí te dejo donde
 
 - 🐦 **[Twitter](https://twitter.com/serudda):** Será nuestro altavoz… por ahora no tenemos un canal oficial, pero nuestro altavoz en este momento es [@serudda](https://twitter.com/serudda).
 
-- 🏠 **[Discord](https://discord.gg/Qncuxgcgsn):** Aquí te podrás enterar de todo… como dije antes este es “Nuestro Centro de Operaciones”, toda la magia ocurre aquí.
+- 🏠 **[Discord](https://discord.gg/77guznJ8mZ):** Aquí te podrás enterar de todo… como dije antes este es “Nuestro Centro de Operaciones”, toda la magia ocurre aquí.
 
 
 -----
